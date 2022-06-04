@@ -5,8 +5,8 @@ app.get('/', function (req, res) {
   res.json({
     type: 'get',
     number: 1,
-    nama: 'Okyza Maherdy Prabowo',
-    npm: '33220025'
+    nama: 'Salman Abdussalam',
+    npm: '2042031'
   });
 })
 
@@ -14,8 +14,8 @@ app.post('/', function (req, res) {
   res.json({
     type: 'post',
     number: 1,
-    nama: 'Okyza Maherdy Prabowo',
-    npm: '33220025'
+    nama: 'Salman Abdussalam',
+    npm: '2042031'
   });
 })
 
